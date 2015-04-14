@@ -4,6 +4,15 @@
   "description": "NodeJS SDK for the Mercadolibre API",
   "main": "index.js",
   "author": "Sergio Toro <sergio.toro@mercadolibre.cl>",
+  "homepage": "https://github.com/storo/meli-node-sdk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storo/meli-node-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/storo/meli-node-sdk/issues",
+    "email": "sergio.toro@mercadolibre.cl"
+  },
   "keywords": [
     "mercadolibre",
     "sdk",
