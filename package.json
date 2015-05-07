@@ -1,9 +1,9 @@
 {
   "name": "meli-sdk",
-  "version": "0.0.1",
-  "description": "NodeJS SDK for the Mercadolibre API",
+  "version": "1.0.0",
+  "description": "NodeJS SDK for the Mercadolibre API with Promises",
   "main": "index.js",
-  "author": "Sergio Toro <sergio.toro@mercadolibre.cl>",
+  "author": "Sergio Toro <debian.storo@gmail.com>",
   "homepage": "https://github.com/storo/meli-node-sdk",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   },
   "bugs": {
     "url": "https://github.com/storo/meli-node-sdk/issues",
-    "email": "sergio.toro@mercadolibre.cl"
+    "email": "debian.storo@gmail.com"
   },
   "keywords": [
     "mercadolibre",
@@ -39,10 +39,7 @@
     "coveralls": "^2.11.2",
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.11.1",
-    "grunt-jsdoc": "^0.5.8",
     "grunt-simple-mocha": "^0.4.0",
-    "ink-docstrap": "^0.5.2",
-    "jsdoc": "^3.3.0-beta3",
     "mocha": "^2.2.4",
     "mocha-lcov-reporter": "0.0.2",
     "nock": "^1.6.0"
