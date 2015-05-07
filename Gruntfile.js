@@ -19,7 +19,7 @@ module.exports = function (grunt) {
     simplemocha: {
       options: {
         timeout: 15000,
-        reporter: 'dot'
+        reporter: 'spec'
       },
       all: {
         src: 'test/*.js'

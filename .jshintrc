@@ -16,7 +16,8 @@
 
   "predef": [
     "describe",
-    "it"
+    "it",
+    "beforeEach"
   ],
 
   "debug": false,

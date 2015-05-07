@@ -1,7 +1,7 @@
 {
   "name": "meli-sdk",
-  "version": "1.0.0",
-  "description": "NodeJS SDK for the Mercadolibre API with Promises",
+  "version": "1.0.1",
+  "description": "Unofficial NodeJS SDK for the Mercadolibre API with Promises",
   "main": "index.js",
   "author": "Sergio Toro <debian.storo@gmail.com>",
   "homepage": "https://github.com/storo/meli-node-sdk",
