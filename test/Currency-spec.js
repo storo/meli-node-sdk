@@ -8,7 +8,10 @@ var currency_id = 'ARS';
 
 describe('meliSDK', function(){
   describe('Currency', function(){
-    require('./mocks/currency');
+
+    beforeEach(function(){
+      require('./mocks/currency');
+    });
 
     it('list', function(){
       return meli.currency.list().then(function(currencies){
@@ -24,4 +27,3 @@ describe('meliSDK', function(){
 
   });
 });
-
